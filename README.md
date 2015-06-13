@@ -63,7 +63,7 @@ Failures:
     TypeError: object is not a function
   Stack:
     TypeError: object is not a function
-        at Object.<anonymous> (/Users/vcobar/code/pj/spec/app/HelloWorldSpec.js:4:12)
+        at Object.<anonymous> (project-folder/spec/app/HelloWorldSpec.js:4:12)
 
 1 spec, 1 failure
 Finished in 0.017 seconds
