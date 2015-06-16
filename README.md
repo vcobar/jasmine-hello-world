@@ -32,10 +32,10 @@ To run your test suite
 ## Basic Folder Structure
 
 ```
---| app
-----| HelloWorld.js
---| spec
-----| app
+|-- app
+--|-- HelloWorld.js
+|-- spec
+--|-- app
 ----|-- HelloWorldSpec.js
 ```
 
