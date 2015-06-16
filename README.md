@@ -33,10 +33,10 @@ To run your test suite
 
 ```
 |-- app
---|-- HelloWorld.js
+  |-- HelloWorld.js
 |-- spec
---|-- app
-----|-- HelloWorldSpec.js
+  |-- app
+    |-- HelloWorldSpec.js
 ```
 
 
